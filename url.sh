@@ -1,16 +1,16 @@
 banner() {
 clear
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m    _____ _                _    \e[0m\e[1;92m _    _ _____  _      \e[0m\n"
-printf "\e[0m\e[1;93m   / ____| |              | |   \e[0m\e[1;92m| |  | |  __ \| |     \e[0m\n"
-printf "\e[0m\e[1;93m  | (___ | |__   ___  _ __| |_  \e[0m\e[1;92m| |  | | |__) | |     \e[0m\n"
-printf "\e[0m\e[1;93m   \___ \|  _ \ / _ \|  __| __| \e[0m\e[1;92m| |  | |  _  /| |     \e[0m\n"
-printf "\e[0m\e[1;93m   ____) | | | | (_) | |  | |_  \e[0m\e[1;92m| |__| | | \ \| |____ \e[0m\n"
-printf "\e[0m\e[1;93m  |_____/|_| |_|\___/|_|   \__| \e[0m\e[1;92m \____/|_|  \_\______|\e[0m\n"
+printf "\e[0m\e[1;93m  _    _ _____  _          _____ _    _  ____  _____ _______ ______ _   _ ______ _____   \e[0m\n"
+printf "\e[0m\e[1;93m | |  | |  __ \| |        / ____| |  | |/ __ \|  __ \__   __|  ____| \ | |  ____|  __ \  \e[0m\n"
+printf "\e[0m\e[1;93m | |  | | |__) | |  _____| (___ | |__| | |  | | |__) | | |  | |__  |  \| | |__  | |__) | \e[0m\n"
+printf "\e[0m\e[1;93m | |  | |  _  /| | |______\___ \|  __  | |  | |  _  /  | |  |  __| | . ` |  __| |  _  /  \e[0m\n"
+printf "\e[0m\e[1;93m | |__| | | \ \| |____    ____) | |  | | |__| | | \ \  | |  | |____| |\  | |____| | \ \  \e[0m\n"
+printf "\e[0m\e[1;93m \____/|_|  \_\______|  |_____/|_|  |_|\____/|_|  \_\ |_|  |______|_| \_|______|_|  \_\  \e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m        Created By HTR-TECH \e[0m\e[1;91m( \e[0m\e[1;92mTahmid Rayat \e[0m\e[1;91m)\e[0m\n"
+printf "\e[0m\e[1;93m        CODED AND CREATED BY D1MOD1877 \e[0m\e[1;91m( \e[0m\e[1;92mhttps://discord.gg/sRWZxq9v \e[0m\e[1;91m)\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m htr-tech \e[0m\e[1;97m| \e[0m\e[1;93mInstagram :\e[0m\e[1;96m @tahmid.rayat\e[0m\n"
+printf "\e[0m\e[1;93m    Website :\e[0m\e[1;96m https://www.d1modev.ml/\e[0m\e[1;97m| \e[0m\e[1;93mInstagram :\e[0m\e[1;96m @d1mod1877\e[0m\n"
 }
 menu() {
 printf "\e[0m\n"
